@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&display=swap');
+
+body {
+    background-color: black;
+    color: white;
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: 5px;
+    text-align: center;
+    border-bottom: 2px solid white;
+    padding: 10px 0;
+    width: 47.5%;
+    margin: auto;
+}
+#NameSymbols{
+    color: white;
+}
+
+img {
+    width: 22%;
+    margin: 1.25%;
+    border: .2rem solid rgb(63, 48, 136);
+    float: left;
+}
